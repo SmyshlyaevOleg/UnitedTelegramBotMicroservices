@@ -1,0 +1,6 @@
+[submodule "HelperBotClient"]
+	path = HelperBotClient
+	url = https://github.com/SmyshlyaevOleg/HelperBotClient
+[submodule "ZSKHelperServer"]
+	path = ZSKHelperServer
+	url = https://github.com/SmyshlyaevOleg/ZSKHelperServer
